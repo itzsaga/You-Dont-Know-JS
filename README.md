@@ -1,13 +1,15 @@
-# You Don't Know JS (book series)
+# You Don't Know JS TL;DR Series
 
-This is a series of books diving deep into the core mechanisms of the JavaScript language. The first edition of the series is now complete.
+The popular You Don't Know JS Series of books contains a TL;DR at the end of every chapter. I have distilled these down in an easy to read fashion similar to the original repo for others to enjoy. I **HIGHLY** suggest reading the full books for free at [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS).
 
-<a href="http://shop.oreilly.com/product/0636920039303.do"><img src="up %26 going/cover.jpg" width="75"></a>&nbsp;
-<a href="http://shop.oreilly.com/product/0636920026327.do"><img src="scope %26 closures/cover.jpg" width="75"></a>&nbsp;
-<a href="http://shop.oreilly.com/product/0636920033738.do"><img src="this %26 object prototypes/cover.jpg" width="75"></a>&nbsp;
-<a href="http://shop.oreilly.com/product/0636920033745.do"><img src="types %26 grammar/cover.jpg" width="75"></a>&nbsp;
-<a href="http://shop.oreilly.com/product/0636920033752.do"><img src="async %26 performance/cover.jpg" width="75"></a>&nbsp;
-<a href="http://shop.oreilly.com/product/0636920033769.do"><img src="es6 %26 beyond/cover.jpg" width="75"></a>
+### Click A Book Cover To Get Started
+
+<a href="up%20&%20going/README.md#you-dont-know-js-up--going"><img src="up %26 going/cover.jpg" width="75"></a>&nbsp;
+<a href="scope%20&%20closures/README.md#you-dont-know-js-scope--closures"><img src="scope %26 closures/cover.jpg" width="75"></a>&nbsp;
+<a href="this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes"><img src="this %26 object prototypes/cover.jpg" width="75"></a>&nbsp;
+<a href="types%20&%20grammar/README.md#you-dont-know-js-types--grammar"><img src="types %26 grammar/cover.jpg" width="75"></a>&nbsp;
+<a href="async%20&%20performance/README.md#you-dont-know-js-async--performance"><img src="async %26 performance/cover.jpg" width="75"></a>&nbsp;
+<a href="es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond"><img src="es6 %26 beyond/cover.jpg" width="75"></a>
 
 Please feel free to contribute to the quality of this content by submitting PR's for improvements to code snippets, explanations, etc. While typo fixes are welcomed, they will likely be caught through normal editing processes, and are thus not necessarily as important for this repository.
 
