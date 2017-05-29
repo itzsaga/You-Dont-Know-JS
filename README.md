@@ -11,7 +11,7 @@ The popular You Don't Know JS Series of books contains a TL;DR at the end of eve
 <a href="async%20&%20performance/README.md#you-dont-know-js-async--performance"><img src="async %26 performance/cover.jpg" width="75"></a>&nbsp;
 <a href="es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond"><img src="es6 %26 beyond/cover.jpg" width="75"></a>
 
-Please feel free to contribute to the quality of this content by submitting PR's for improvements to code snippets, explanations, etc. While typo fixes are welcomed, they will likely be caught through normal editing processes, and are thus not necessarily as important for this repository.
+Please feel free to contribute to the quality of this content by submitting PR's for improvements.
 
 **To read more about the motivations and perspective behind this book series, check out the [Preface](preface.md).**
 
