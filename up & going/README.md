@@ -2,10 +2,12 @@
 
 <img src="cover.jpg" width="300">
 
+## Read These If You Haven't Already
+
 * [Foreword](foreword.md) (by [Jenn Lukas](http://jennlukas.com))
 * [Preface](../preface.md)
 
-## Chapter 1 Review
+## Chapter 1 TL;DR
 
 Learning programming doesn't have to be a complex and overwhelming process. There are just a few basic concepts you need to wrap your head around.
 
@@ -22,13 +24,13 @@ Code comments are one effective way to write more readable code, which makes you
 
 Finally, don't neglect the power of practice. The best way to learn how to write code is to write code.
 
-## Chapter 2 Review
+## Chapter 2 TL;DR
 
 The first step to learning JavaScript's flavor of programming is to get a basic understanding of its core mechanisms like values, types, function closures, `this`, and prototypes.
 
 Of course, each of these topics deserves much greater coverage than you've seen here, but that's why they have chapters and books dedicated to them throughout the rest of this series. After you feel pretty comfortable with the concepts and code samples in this chapter, the rest of the series awaits you to really dig in and get to know the language deeply.
 
-## Chapter 3 Review
+## Chapter 3 TL;DR
 
 The *YDKJS* series is dedicated to the proposition that all JS developers can and should learn all of the parts of this great language. No person's opinion, no framework's assumptions, and no project's deadline should be the excuse for why you never learn and deeply understand JavaScript.
 
