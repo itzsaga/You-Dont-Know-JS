@@ -49,6 +49,12 @@ Coercion gets a bad rap, but it's actually quite useful in many cases. An import
 
 Especially for *implicit*, coercion must be used responsibly and consciously. Know why you're writing the code you're writing, and how it works. Strive to write code that others will easily be able to learn from and understand as well.
 
+Be a responsible and mature developer. Learn how to use the power of coercion (both *explicit* and *implicit*) effectively and safely. And teach those around you to do the same.
+
+Here's a handy table made by Alex Dorey (@dorey on GitHub) to visualize a variety of comparisons:
+
+<img src="fig1.png" width="600">
+
 ## Chapter 5 TL;DR
 
 JavaScript grammar has plenty of nuance that we as developers should spend a little more time paying closer attention to than we typically do. A little bit of effort goes a long way to solidifying your deeper knowledge of the language.
