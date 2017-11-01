@@ -4,7 +4,7 @@
 
 ## Read These If You Haven't Already
 
-* [Foreword](foreword.md) (by [Jenn Lukas](http://jennlukas.com))
+* [Foreword](foreword.md) (by [David Walsh](http://davidwalsh.name))
 * [Preface](../preface.md)
 
 ## Chapter 1 TL;DR
