@@ -4,7 +4,7 @@
 
 ## Read These If You Haven't Already
 
-* [Foreword](foreword.md) (by [Rick Waldron](http://twitter.com/rwaldron)
+* [Foreword](foreword.md) (by [Rick Waldron](http://twitter.com/rwaldron))
 * [Preface](../preface.md)
 
 ## Chapter 1 TL;DR
