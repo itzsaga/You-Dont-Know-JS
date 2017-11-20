@@ -1,4 +1,4 @@
-# You Don't Know JS: Up & Going
+# You Don't Know JS: Async & Performance
 
 <img src="cover.jpg" width="300">
 
